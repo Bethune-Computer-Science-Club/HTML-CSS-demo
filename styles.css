@@ -1,0 +1,57 @@
+body {
+  background-color: #669999;
+}
+
+h1 {
+  color: rgb(194, 28, 194);
+  text-align: center;
+}
+
+p {
+  color: rgb(178, 206, 23);
+  text-align: center;
+}
+
+h4 {
+  color: blue;
+  margin: 0 0 10px 0;
+}
+
+input[type=text] {
+  font-size: 12px;
+  color: blue;
+}
+
+h5 {
+  margin: 0 0 0 0;
+}
+
+.buttonContainer {
+  width: 120px;
+  margin: auto;
+
+}
+
+input[type=submit] {
+  color: white;
+  font-size: 24px;
+  background-color: #1fc435;
+  border-radius: 10px;
+  padding: 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  color: white;
+  background-color: #0e7e1d;
+}
+
+.question {
+  border-style: solid;
+  border-color: green;
+  border-radius: 10px;
+  width: 300px;
+  margin: 20px auto 20px auto;
+  padding: 20px;
+}
